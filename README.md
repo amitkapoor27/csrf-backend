@@ -55,7 +55,7 @@ app.post('/profile', function(req, res) {
   }
   
   // Process user profile update
-  // ...
+  
 });
 ```
 
